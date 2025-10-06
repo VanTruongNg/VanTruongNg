@@ -1,4 +1,4 @@
-# Hi 👋, I'm Van Truong Nguyen
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=5000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Van+Truong+Nguyen" alt="Typing SVG" /></a><br/>
 Hey there! I write code, break things, and somehow make them work again 🧠  
 Currently exploring the world of microservices and real-time systems — Go is my favorite playground for now.  
 I’m passionate about system design, event-driven architecture, and building things that actually scale.  
