@@ -1,3 +1,9 @@
+# Hi 👋, I'm Van Truong Nguyen
+Hey there! I write code, break things, and somehow make them work again 🧠  
+Currently exploring the world of microservices and real-time systems — Go is my favorite playground for now.  
+I’m passionate about system design, event-driven architecture, and building things that actually scale.  
+Fueled by coffee, curiosity, and the occasional `docker compose up`.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/6ixty6six) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/truongnguyendev) 
