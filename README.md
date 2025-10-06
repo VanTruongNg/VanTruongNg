@@ -58,9 +58,11 @@ Fueled by coffee, curiosity, and the occasional `docker compose up`.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VanTruongNg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VanTruongNg&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanTruongNg&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VanTruongNg&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VanTruongNg&theme=aura&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanTruongNg&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%">
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VanTruongNg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
