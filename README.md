@@ -14,7 +14,7 @@ Fueled by coffee, curiosity, and the occasional `docker compose up`.
 
 ---
 
-### 🧠 **Languages**
+<h3 align="center">🧠 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -26,7 +26,7 @@ Fueled by coffee, curiosity, and the occasional `docker compose up`.
 
 ---
 
-### 🏗️ **Frameworks & Ecosystems**
+<h3 align="center">🏗️ Frameworks & Ecosystems</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
@@ -38,7 +38,7 @@ Fueled by coffee, curiosity, and the occasional `docker compose up`.
 
 ---
 
-### 🗄️ **Databases & Caching**
+<h3 align="center">🗄️ Databases & Caching</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -48,7 +48,7 @@ Fueled by coffee, curiosity, and the occasional `docker compose up`.
 
 ---
 
-### ⚙️ **Tools & DevOps**
+<h3 align="center">⚙️ Tools & DevOps</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
