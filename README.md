@@ -36,7 +36,7 @@
 
 ---
 
-<h3 align="center">🏗️ Frameworks & Ecosystems</h3>
+<h3 align="center">🏗️ Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
