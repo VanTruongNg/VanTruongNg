@@ -82,3 +82,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VanTruongNg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VanTruongNg&style=flat-square&color=blue" alt="profile views"/>
+</p>
