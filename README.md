@@ -14,6 +14,19 @@
   <p>☕ Fueled by coffee, curiosity, and the occasional <code>docker compose up</code>.</p>
 </div>
 
+<h3 align="center">🚀 What I'm Currently Building</h3>
+
+<p align="left">
+  I'm currently working on a <b>music app</b> — simple in concept, but packed with fun ideas like  
+  <i>listening together in the same room</i> with one <b>host</b> and multiple <b>listeners</b>,  
+  synced in real-time. 🎧
+</p>
+
+<ul>
+  <li>🎯 <b>Goal:</b> Strengthen my backend skills and deepen my understanding of distributed systems and real-time communication.</li>
+  <li>🧩 <b>Tech Stack:</b> <code>Go</code>, <code>Kafka</code>, <code>gRPC</code>, and <code>WebSocket/SSE</code> — all orchestrated via <code>Docker</code> for modular microservices.</li>
+  <li>🌱 <b>Vision:</b> Turn this experiment into a scalable “social listening” platform that brings people closer through music.</li>
+</ul>
 
 ## 🌐 Socials:
 <p align="left">
