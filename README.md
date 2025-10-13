@@ -27,6 +27,9 @@
   <li>🧩 <b>Tech Stack:</b> <code>Go</code>, <code>Kafka</code>, <code>gRPC</code>, and <code>WebSocket/SSE</code> — all orchestrated via <code>Docker</code> for modular microservices.</li>
   <li>🌱 <b>Vision:</b> Turn this experiment into a scalable “social listening” platform that brings people closer through music.</li>
 </ul>
+<p align="center">
+  🎧 Curious? <a href="https://github.com/VanTruongNg/music-player" target="_blank"><b>Check this stuff out →</b></a>
+</p>
 
 ## 🌐 Socials:
 <p align="left">
