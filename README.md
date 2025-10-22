@@ -102,12 +102,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VanTruongNg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VanTruongNg&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanTruongNg/VanTruongNg/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanTruongNg/VanTruongNg/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VanTruongNg/VanTruongNg/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VanTruongNg&style=flat-square&color=blue" alt="profile views"/>
+</p>
