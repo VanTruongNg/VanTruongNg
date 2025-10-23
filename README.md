@@ -27,7 +27,7 @@
 
 <ul>
   <li>🎯 <b>Goal:</b> Strengthen my backend skills and deepen my understanding of distributed systems and real-time communication.</li>
-  <li>🧩 <b>Tech Stack:</b> <code>Go</code>, <code>Kafka</code>, <code>gRPC</code>, and <code>WebSocket/SSE</code> — all orchestrated via <code>Docker</code> for modular microservices.</li>
+  <li>🧩 <b>Tech Stack:</b> <code>Go</code>, <code>Kafka</code>, <code>gRPC</code>, and <code>WebSocket</code> — all orchestrated via <code>Docker</code> for modular microservices.</li>
   <li>🌱 <b>Vision:</b> Turn this experiment into a scalable “social listening” platform that brings people closer through music.</li>
 </ul>
 <p align="center">
