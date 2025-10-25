@@ -46,7 +46,7 @@
 
 # 💻 Tech Stack
 
-> “Tools and technologies I use (or occasionally break) to build stuff that scales.” ⚙️  
+> “Tools and technologies I use to build stuff that scales.” ⚙️  
 
 ---
 
